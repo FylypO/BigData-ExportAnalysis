@@ -1,1 +1,1 @@
-![GIF](https://github.com/FylypO/Source/blob/main/bigdata.gif))
+![GIF](https://github.com/FylypO/Source/blob/main/bigdata.gif)
